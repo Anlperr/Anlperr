@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anlperr&show_icons=true&locale=en" alt="anlperr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anlperr&" alt="anlperr" /></p>
+
+
+![snake gif](https://github.com/anlperr/anlperr/blob/output/github-contribution-grid-snake.gif)
