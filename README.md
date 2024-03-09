@@ -1,7 +1,7 @@
 ![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
 
 
-
+ 
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
