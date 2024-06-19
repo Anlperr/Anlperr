@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Java, JavaScript, SQL**
 
-- 📫 How to reach me **nlpr2001@windowslive.com**
+- 📫 How to reach me **anil.per@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
