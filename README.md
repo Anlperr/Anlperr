@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C++, C#, Java, JavaScript, SQL**
+- 🌱 I’m currently learning **Java, C#, C++, JavaScript, SQL**
 
 - 📫 How to reach me **anil.per@hotmail.com**
 
