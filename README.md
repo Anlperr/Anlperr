@@ -1,11 +1,4 @@
-![MasterHead](https://binarapps.com/wp-content/uploads/2021/09/Top-10-Programming-Languages-of-the-Future.png)
-
-
- 
-<h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-
-<!--- 🌱 I’m currently learning **C#, .NET**-->
+<h1 align="center">Hi 👋</h1>
 
 - 📫 How to reach me **anil.per@hotmail.com**
 
